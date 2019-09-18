@@ -20,8 +20,7 @@ Topics:
 
 * Once your application is up and running on the client, you should see a browser window that looks like this at `localhost:3000`
   ![Movies Home](https://ibin.co/3xhmmHVl9BKF.png)
-
-### Part 1:
+{_--### Part 1:
 
 * Wrap your app with the router.
 * Inside your App file add two routes.
@@ -53,3 +52,4 @@ You will notice there is a 'Saved Movies' component that we are not currently us
 You will need to uncomment lines 25-28 in `Movie.js` to complete this. Your list of saved movies should be links to the movie itself. Study and understand what the `saveMovie` function is doing.
 
 ### Turn your Saved Movie `Link`s into `NavLink`s.
+ 
