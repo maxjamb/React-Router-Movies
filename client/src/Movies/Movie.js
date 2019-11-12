@@ -47,7 +47,7 @@ const Movie = (props) => {
           <div key={star} className="movie-star">
             {star}
           </div>
-        )) : null}
+        )): null}
       </div>
       <div className="save-button">Save</div>
     </div>
